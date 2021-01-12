@@ -1,2 +1,2 @@
-# cartoon-hero
+# cartoonhero
 My first website
